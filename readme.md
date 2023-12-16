@@ -1,1 +1,1 @@
-Advent JS challenges 2023
+Advent JS challenge 2023
